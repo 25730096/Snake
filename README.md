@@ -2,9 +2,9 @@
 ﻿# Snack Game Project
 
 ## Team Members
-- Hoàng Minh Anh - SV1 - 25730096
-- Lê Công Phú - SV2 - 25730133 - Vẽ Khung
-- Nguyễn Thị Xuân Tiên - SV3 - 25730152 - Ăn mồi
+- Hoang Minh Anh - SV1 - 25730096
+- Nguyen Thi Xuan Tien - SV2 - 25730152 - Draw Frame
+- Le Cong Phu - SV3 - 25730133 - Take Bait
 
 ## Initial Version
 Initial setup project structure and basic C++ source code.
